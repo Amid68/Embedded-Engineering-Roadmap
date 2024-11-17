@@ -1,65 +1,10 @@
 # Embedded Systems Engineering Roadmap
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/m3y54m/Embedded-Engineering-Roadmap?style=plastic)](https://github.com/m3y54m/Embedded-Engineering-Roadmap/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/m3y54m/Embedded-Engineering-Roadmap?style=plastic)](https://github.com/m3y54m/Embedded-Engineering-Roadmap/forks)
-[![GitHub watchers](https://img.shields.io/github/watchers/m3y54m/Embedded-Engineering-Roadmap?style=plastic)](https://github.com/m3y54m/Embedded-Engineering-Roadmap/watchers)
-[![GitHub contributors](https://img.shields.io/github/contributors/m3y54m/Embedded-Engineering-Roadmap?style=plastic)](https://github.com/m3y54m/Embedded-Engineering-Roadmap/graphs/contributors)
-[![GitHub tag (with filter)](https://img.shields.io/github/v/tag/m3y54m/Embedded-Engineering-Roadmap?style=plastic&label=latest)](https://github.com/m3y54m/Embedded-Engineering-Roadmap/releases/latest)
-[![GitHub release (by tag)](https://img.shields.io/github/downloads/m3y54m/Embedded-Engineering-Roadmap/latest/total?style=plastic)](https://github.com/m3y54m/Embedded-Engineering-Roadmap/releases/latest)
-[![GitHub all releases](https://img.shields.io/github/downloads/m3y54m/Embedded-Engineering-Roadmap/total?style=plastic&label=total%20downloads)](https://github.com/m3y54m/Embedded-Engineering-Roadmap/releases)
-
-This roadmap is designed to help beginners aspiring to build a career as an **Embedded Engineer/Developer**, as well as assist current practitioners in expanding their skills. 
-
-Embedded engineering demands a solid understanding of hardware functionality as well as software development and programming skills. If you really want to pursue this career you must be highly motivated and passionate about it. As the well-known saying goes, "Hardware is hard!". But don't panic and be patient for the challenges you may encounter along this exciting journey. By dedicating enough time and effort practicing and doing projects you will soon find yourself as a real embedded engineer! 😀
-
-## ❓ What is an Embedded System?
-
-▶️ [ISO/IEC/IEEE 24765 Standard:](https://www.iso.org/obp/ui/en/#iso:std:iso-iec-ieee:24765:ed-2:v1:en)
-
-> **computer system** that is **part of a larger system** and **performs some of the requirements of that system**. For example, a computer system
-used in an aircraft or rapid transit system.
->
-> The hardware and software of an embedded system are usually **minimized** and **optimized** for **specific functions**. The embedded system includes at least one microcontroller, microprocessor or digital signal processor. The embedded system designed to **optimize reliability, cost, size and power saving for applications**.
-
-▶️ ["Making Embedded Systems" Book:](https://www.oreilly.com/library/view/making-embedded-systems/9781449308889/)
-
-> An embedded system is a **computerized system** that is **purpose built for its application**.
-
-▶️ ["Computer Organization and Embedded Systems" Book:](https://a.co/d/2lt4Svf)
-
-> A **physical system** that employs **computer control** for a **specific purpose**, rather than for general-purpose computation, is referred to as an embedded system.
-
-▶️ [Analog Devices Glossary:](https://www.analog.com/en/design-center/glossary/embedded-system.html)
-
-> An embedded system is a system in which the **computer** (generally a microcontroller or microprocessor) is included **as an integral part of the system**.
->
-> Often, the computer is **relatively invisible to the user**, without obvious applications, files, or operating systems. Examples of products with invisible embedded systems are the controller that runs a microwave oven or the engine control system of a modern automobile.
-
-▶️ [Embedded Systems Glossary:](https://barrgroup.com/embedded-systems/glossary-e)
-
-> A combination of **computer hardware and software**, and perhaps **additional mechanical or other parts**, designed to perform a **dedicated function**.
->
-> In some cases, embedded systems are **part of a larger system** or product, as in the case of an antilock braking system in a car.
-
 ## 🗺️ The Roadmap
 
 ![Embedded Systems Engineering Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap/releases/latest/download/Embedded-Engineering-Roadmap.png)
 
-The embedded systems engineering roadmap is structured into three fundamental areas: **SOFTWARE**, **HARDWARE**, and **SOFT SKILLS**.
-
-While the intersection of hardware and software is prevalent in embedded systems, specific job titles tend to emphasize one aspect over the other. For instance, roles like "Embedded Software Engineer/Developer," "Firmware Engineer/Developer," and "Embedded Linux Engineer/Developer" predominantly focus on software development. In contrast, positions such as "Embedded Hardware Engineer" and "Hardware Design Engineer" primarily deal with hardware design and electronics. Moreover, there are roles like "Embedded Systems Engineer" that necessitate a comprehensive understanding of both hardware and software.
-
-It's crucial to note that each company in the embedded industry may have unique requirements for a given job title. Therefore, it's essential to tailor your focus based on your career aspirations. If you're seeking an embedded software position, prioritize the software-related skills outlined in the roadmap. Conversely, if you're interested in an embedded hardware job, concentrate on hardware skills and dedicate more time to learning electronics.
-
-The roadmap provides a comprehensive guide to the essential topics for a typical "Embedded Systems Engineer" role. By delving into both software and hardware aspects, you can develop the necessary skills to thrive in this dynamic field. However, if you have a clear preference for software or hardware, you can tailor your learning path accordingly.
-
-> [!NOTE] 
-> **Remember that the importance of individual software and hardware skills can differ depending on the specific requirements of the company and the job role.**
-
-
 > [!TIP]  
-> To differentiate between the types of learning resources and the quality of their content, specific symbols are used before each item.
->
 > **Resource types:**
 > - 📘 : Books
 > - 🎞️ : Videos
@@ -70,15 +15,7 @@ The roadmap provides a comprehensive guide to the essential topics for a typical
 > - 👶 : Easy-to-understand and beginner-friendly resources. Refer to them if you do not have prior knowledge in a topic.
 > - 💎 : Well-known references that have truly invaluable and comprehensive content. Refer to them if you want to deepen your understanding of a topic.
 
-## 😕 Don't Know Where to Start!
-
-**If you feel overwhelmed by the extensive list of topics in the roadmap, you're not alone. Before delving too deeply, let's ease into it with some simple starter projects. Learning embedded systems engineering takes time and effort. Don't get discouraged if you don't understand something right away. Keep practicing and you will eventually get there.**
-
 ### ⚒️ Projects
-
-Engaging in hands-on projects is the most effective approach to learning. Rather than solely relying on theoretical knowledge from books or articles. Undertaking projects allows for practical learning experiences. Even a seemingly basic project has the potential to teach you more than hours of aimless reading. You can refer to books, articles, and courses when faced with difficulties in understanding the problems in real-world projects.
-
-Don't try to build a complex project right away. Start with small, manageable projects to get your feet wet.
 
 - [🔗 Random Nerd Tutorials | Learn ESP32, ESP8266, Arduino, and Raspberry Pi](https://randomnerdtutorials.com/)
 - [🔗 Last Minute Engineers](https://lastminuteengineers.com/)
@@ -89,51 +26,19 @@ Don't try to build a complex project right away. Start with small, manageable pr
 - [🔗 Raspberry Pi Based Embedded Project Ideas](https://www.rs-online.com/designspark/raspberry-pi-based-embedded-project-ideas)
 - [🔗 Embedded Linux On ARM | Projects](https://www.emertxe.com/embedded-systems/embedded-linux-on-arm/elarm-projects/)
 
-### 🔎 Search and Ask!
-
-Use search engines to find the answers to your questions.
-
-- [🔗 Google](https://www.google.com)
-- [🔗 Bing](https://www.bing.com/)
-- [🔗 DuckDuckGo](https://duckduckgo.com/)
-
-If you can't find what you're looking for using search engines, AI chatbots can also provide assistance. Keep in mind that AI may provide incorrect answers in some cases. It's best to confirm any answers with more reliable references.
-
-- [🔗 DuckDuckGo AI Chat](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
-- [🔗 Microsoft Copilot](https://copilot.microsoft.com)
-- [🔗 Google Gemini](https://gemini.google.com)
-- [🔗 ChatGPT](https://chat.openai.com)
-- [🔗 Claude AI](https://claude.ai/chats)
-- [🔗 Poe - Fast, Helpful AI Chat](https://poe.com)
-
-If you have reservations about relying on AI advice alone, you can also ask your questions from real people:
-
-- [🔗 Electrical Engineering Stack Exchange](https://electronics.stackexchange.com/)
-- [🔗 Reddit · r/embedded](https://www.reddit.com/r/embedded/)
-
 ### 🎥 Courses and YouTube Contents
 
-You may have heard that YouTube is a university. And it's true - there is an extensive amount of invaluable free content on embedded systems available on YouTube. You'll also find some excellent free courses through Coursera and EdX. Additionally, Udemy offers some high-quality paid course options.
-
 - [🎞️ DigiKey (YouTube Channel)](https://www.youtube.com/@digikey)
-- [🎞️ Coursera - Introduction to Embedded Systems Software and Development Environments](https://www.coursera.org/learn/introduction-embedded-systems)
-- [🎞️ Coursera - Embedded Software and Hardware Architecture](https://www.coursera.org/learn/embedded-software-hardware)
 - [🎞️ Fastbit Embedded Brain Academy](https://fastbitlab.com/)
 - [🎞️ Modern Embedded Systems Programming Course (YouTube Playlist)](https://www.youtube.com/playlist?list=PLPW8O6W-1chwyTzI3BHwBLbGQoPFxPAPM)
 - [🎞️ element14 presents (YouTube Channel)](https://www.youtube.com/@element14presents)
 - [🎞️ Ben Eater (YouTube Channel)](https://www.youtube.com/@BenEater)
 - [🎞️ Phil’s Lab (YouTube Channel)](https://www.youtube.com/@PhilsLab)
 - [🎞️ Embedded Systems - Jacob Sorber (YouTube Playlist)](https://www.youtube.com/playlist?list=PL9IEJIKnBJjEcPAz6fss-Hx0TLytCOMVC)
-- [🎞️ edX - Embedded Systems - Shape The World: Microcontroller Input/Output](https://learning.edx.org/course/course-v1:UTAustinX+UT.6.10x+3T2022/home)
-- [🎞️ edX - Embedded Systems - Shape The World: Multi-Threaded Interfacing](https://www.edx.org/learn/computer-programming/the-university-of-texas-at-austin-embedded-systems-shape-the-world-multi-threaded-in)
 - [🎞️ Embedded Systems, in Pyjama!](https://www.youtube.com/@inpyjama)
 - [🎞️ Low Byte Productions](https://www.youtube.com/@lowbyteproductions)
 
 ### 🕹️ Arduino
-
-If you do not have any background in programming the embedded systems, Arduino boards and libraries are the best choice for you to start and learn the basics. Just keep in mind that most of the Arduino libraries are developed for learning purposes and are not optimized to be used in industry.
-
-Additionally, the [Arduino Core](https://github.com/arduino/ArduinoCore-API) takes care of most of the low-level hardware-associated operations that you, as an embedded engineer, should be able to handle yourself or at least have a clear understanding of. If you want to become a professional embedded developer, you should be able to effectively use industry-standard APIs and SDKs provided and approved by microcontroller vendors, such as CMSIS for ARM Cortex-M microcontrollers, STM32Cube for STM32, ESP-IDF for Espressif microcontrollers, etc.
 
 - [🔗 Getting Started with Arduino](https://docs.arduino.cc/learn/starting-guide/getting-started-arduino)
 - [🎞️ All New Arduino R4 WiFi LESSONS for Absolute Beginners (YouTube Playlist)](https://www.youtube.com/playlist?list=PLGs0VKk2DiYyn0wN335MXpbi3PRJTMmex)
@@ -188,12 +93,6 @@ PlatformIO is not yet extensively adopted in industrial and large-scale projects
 
 ## 📚 Learning Resources
 
-> [!WARNING]  
-> It is not necessary to read all the books, articles, or watch all the videos you see here. If you try to do so, you will finally get tired and disappointed. You cannot study all the available content here in a reasonable time because it may take years. It is important to study enough to have at least a basic understanding of the required topics. Of course, the more time you dedicate to studying and doing projects, the more profound your knowledge and expertise will become.
->
-> Some of the resources mentioned here will just be used as references. Refer to them only when you need them.
-_________________
-
 ### ✳️ Soft Skills
 
 Similar to other professions, embedded engineers require soft skills that can't be solely obtained from reading or watching videos. These skills are cultivated through interactions and tackling various work obstacles. Improving soft skills is not a one-size-fits-all approach. It will vary based on one's individual traits and requires self-awareness of your strengths and areas for growth. Enhancing these skills takes time and effort.
@@ -204,12 +103,6 @@ Similar to other professions, embedded engineers require soft skills that can't 
 _________________
 
 ### ✳️ Electronics
-
-#### 🔵 Basic Math & Calculus
-
-- [🎞️ Khan Academy - Calculus 1](https://www.khanacademy.org/math/calculus-1)
-- [📘👶 Calculus For Dummies - Mark Ryan](https://a.co/d/cyvZqE1)
-- [📘💎 Thomas' Calculus](https://a.co/d/gFcCC37)
 
 #### 🔵 Principles of Electric Circuits
 
@@ -1416,26 +1309,3 @@ AUTOSAR, or AUTomotive Open System ARchitecture, is a global industry standard f
 - [🎞️ Introduction to AUTOSAR](https://www.youtube.com/watch?v=NfZI8wvgZPo)
 - [🎞️ Udemy - Autosar Architecture (Learn from Scratch with Demo)](https://www.udemy.com/course/autosar-architecture/)
 
-## History
-
-At first this was meant to be my personal reading list but as the list gradually became bigger and bigger, I wondered why not share it with others. So I did research on current job postings for embedded engineering roles, selecting the most frequent skills and including them on a roadmap. In order to make the roadmap more comprehensive I also added some basic skills and finally came up with what you see here.
-
-The idea of creating this roadmap came from [vazeri / Embedded-Engineering-RoadMap-2018](https://github.com/vazeri/Embedded-Engineering-RoadMap-2018) which was well designed but had some flaws and not updated for years. I took that idea, changed the structure of the roadmap and tried to improve it. The initial results can be accessed in [m3y54m / Embedded-Engineering-Roadmap-Archived](https://github.com/m3y54m/Embedded-Engineering-Roadmap-Archived) which is now archived. Early versions of the roadmap were created using [Balsamiq Wireframes](https://balsamiq.com) which is not suitable for these types of diagrams. So I decided to use Microsoft Visio instead and redrew the whole diagram.
-
-## Copyright
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/) which means that you are free to **share** or **adapt** this work under the following terms:
-
-**Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
-**ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. 
-
-## Acknowledgement
-
-Special thanks to my friends in the community of Iranian Embedded Engineers in Twitter and [r/embedded](https://www.reddit.com/r/embedded) subreddit for their suggestions that helped in improving this roadmap.
-
-## Contribution
-
-If you think that this roadmap can be improved in anyway or you know about some good learning resources that can be added here, please start an issue or a pull request. I’ll be maintaining and updating this repository frequently.
-
-The source file is created using [Microsoft Visio](https://office.com/visio) in `.vsdx` format and included in this repository for your contributions. If you do not have Microsoft Visio or you want to use free software, you can use [draw.io](https://draw.io) which can import and export `.vsdx` files.
