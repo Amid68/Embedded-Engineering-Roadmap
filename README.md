@@ -71,7 +71,7 @@
 
 - [🔗 Keil MDK & µVision](https://www.keil.com/)
 - [🔗 IAR Embedded Workbench](https://www.iar.com)
-- [🔗 STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
+- [✅ 🔗 STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
 - [🔗 Microchip Studio for AVR® and SAM Devices](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio)
 - [🔗 MPLAB® X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)
 - [🔗 MCUXpresso IDE](https://www.nxp.com/design/software/development-software/mcuxpresso-software-and-tools-/mcuxpresso-integrated-development-environment-ide:MCUXpresso-IDE)
@@ -80,7 +80,7 @@
 
 - [🔗 Cortex-Debug](https://marketplace.visualstudio.com/items?itemName=marus25.cortex-debug)
 - [🔗 STM32 VS Code Extension](https://marketplace.visualstudio.com/items?itemName=stmicroelectronics.stm32-vscode-extension)
-- [🔗 Espressif IDF](https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-extension)
+- [✅ 🔗 Espressif IDF](https://marketplace.visualstudio.com/items?itemName=espressif.esp-idf-extension)
 - [🔗 MCUXpresso for VS Code](https://marketplace.visualstudio.com/items?itemName=NXPSemiconductors.mcuxpresso)
 
 ### 🐜 PlatformIO
